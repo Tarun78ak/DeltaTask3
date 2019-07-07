@@ -1,0 +1,157 @@
+html{
+  background-color: #a3c2c2;
+}
+header,h1,h2 {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 30px;
+  color: black;
+  text-align: center;
+}
+
+.myform {
+  background: white;
+  margin: 0 auto;
+  width: 450px;
+  padding: 1em;
+  border: 1px solid black;
+  border-radius: 1em;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 30px;
+}
+.profile{
+  width: 150px;
+  margin-left: 150px;
+}
+.content{
+  font-size:15px;
+}
+.inputvalues{
+  width: 400px;
+  margin: 0 auto;
+  padding: 5px;
+}
+#login_btn{
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #47d147;
+  padding: 5px;
+  color: white;
+  width:90%;
+  text-align:center;
+  font-size: 20px;
+  font-weight: bold;
+}
+#register_btn{
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color:#3399ff;
+  padding: 5px;
+  color: white;
+  width:90%;
+  text-align:center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+#img_btn{
+  margin-top: 10px;
+  margin-left: 10px;
+  padding: 5px;
+  color: white;
+  
+  text-align:center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+#signup_btn{
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #47d147;
+  padding: 5px;
+  color: white;
+  width:90%;
+  text-align:center;
+  font-size: 20px;
+  font-weight: bold;
+}
+#back_btn,#btp_btn,#btop_btn,#btprof_btn,#backtp_btn{
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color:#3399ff;
+  padding: 5px;
+  color: white;
+  width:90%;
+  text-align:center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+#logout_btn{
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color:#3399ff;
+  padding: 5px;
+  color: white;
+  width:90%;
+  text-align:center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+#submit_btn{
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color:#3399ff;
+  padding: 5px;
+  color: white;
+  width:90%;
+  text-align:center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+#create_btn,#response_btn{
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #47d147;
+  padding: 5px;
+  color: white;
+  width:90%;
+  text-align:center;
+  font-size: 20px;
+  font-weight: bold;
+}
+#otherforms_btn{
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #47d147;
+  padding: 5px;
+  color: white;
+  width:90%;
+  text-align:center;
+  font-size: 20px;
+  font-weight: bold;
+}
+#submitform_btn{
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #47d147;
+  padding: 5px;
+  color: white;
+  width:90%;
+  text-align:center;
+  font-size: 20px;
+  font-weight: bold;
+}
+#upload_btn{
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #47d147;
+  padding: 5px;
+  color: white;
+  width:90%;
+  text-align:center;
+  font-size: 20px;
+  font-weight: bold;
+}
